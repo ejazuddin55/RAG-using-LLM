@@ -7,7 +7,7 @@ import tempfile
 from PyPDF2 import PdfReader
 
 # 🔑 Set Together.AI API Key
-TOGETHER_API_KEY = "tgp_v1_XxOUZZ5oDOhquMy2v7kDWWhi9OGDAV22AvM7LQxUixM"  # Replace with actual key
+TOGETHER_API_KEY = "ADD YOUR API"  # Replace with actual key
 client = Together(api_key=TOGETHER_API_KEY)
 
 # Streamlit App Title
